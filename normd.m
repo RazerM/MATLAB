@@ -16,6 +16,3 @@ function [normd] = normd(matrix, dim)
     % Frazer McLean <frazergmclean@gmail.com>
     normd = sqrt(sum(matrix.^2, dim));
 end
-
-
-

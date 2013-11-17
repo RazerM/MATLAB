@@ -11,5 +11,5 @@ function deg = rad2deg(rad)
     %     See also deg2rad.
     %
     % Frazer McLean <frazergmclean@gmail.com>
-	deg = rad*180/pi;
+    deg = rad*180/pi;
 end
